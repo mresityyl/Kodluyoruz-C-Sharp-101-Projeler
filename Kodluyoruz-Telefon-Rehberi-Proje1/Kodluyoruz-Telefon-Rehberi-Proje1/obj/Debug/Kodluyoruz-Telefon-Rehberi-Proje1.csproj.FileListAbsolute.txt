@@ -1,0 +1,17 @@
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.exe.config
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.exe
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.pdb
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\obj\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.csproj.AssemblyReference.cache
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\obj\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\obj\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.csproj.CoreCompileInputs.cache
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\obj\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.exe
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\obj\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.pdb
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Buffers.dll
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\obj\Debug\Kodluyoruz-Telefon-Rehberi-Proje1.csproj.CopyComplete
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Memory.dll
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Buffers.xml
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Memory.xml
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mresi\Masaüstü\UnityPatika\cSharp\patika1\Kodluyoruz-Telefon-Rehberi-Proje1\Kodluyoruz-Telefon-Rehberi-Proje1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
